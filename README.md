@@ -14,5 +14,7 @@
 ## Contribution Graph
 <img src="github-snake-dracula.svg" width="300" />
 
-<img src="nezuko.gif" width="80" />
+<img src="nezuko.gif" width="80" /> </br>
+<code>Still running, still learning...</code>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:44475a,100:bd93f9&height=100&section=footer" width="100%" />
